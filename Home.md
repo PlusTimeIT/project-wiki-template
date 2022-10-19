@@ -14,7 +14,3 @@ The structure of the repository is as shown below:
 | [Code Review Process](./06-code-review-process)       | Documents related to code review process, definition of ready/done |
 | [Delivery Metrics](./07-delivery-metrics)             | Documents release to each Sprint delivery metrics            |
 | [Release and Deployment](./08-release-and-deployment) | Documents related to release and deployment                  |
-
-# [DLLS] deliverE Laravel Legacy System
-
-deliverE Laravel Legacy System is a custom made TMS that is linked into NowGo to provide a powerful platform for manifesting and event tracking.
